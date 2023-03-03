@@ -51,10 +51,9 @@ public class Main {
         checkOS(0, 2026);
     }
 
-    public static int task3() {
+    public static void  task3() {
         System.out.println("Задача 3");
         System.out.println(delivery(66));
-        return 0;
     }
 }
 
